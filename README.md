@@ -1,1 +1,1 @@
-# CFAICFAI
+# Comprehensive Foundations of Artificial Intelligence
