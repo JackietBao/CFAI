@@ -96,7 +96,8 @@ int main() {
     }
     return 0;
 }
- */
+
+
 
 #include <stdio.h>
 //scanf读取多种类型
@@ -110,6 +111,7 @@ int main() {
     printf("%0.2f\n",i+j+k);
     return 0;
 }
+ */
 
 
 
@@ -117,6 +119,17 @@ int main() {
 
 
 
+
+#include <stdio.h>
+
+int main() {
+    int i;
+    char j;
+    float k;
+    scanf("%d %c%f",&i,&j,&k);
+    printf("%5.2f",i+k+j);
+    return 0;
+}
 
 
 

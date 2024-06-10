@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_A_bunch_of_arrays_vs__character_arrays">
-				<Option output="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/4_A_bunch_of_arrays_vs__character_arrays.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
+				<Option output="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/4_A_bunch_of_arrays_vs__character_arrays.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -39,15 +39,15 @@
 					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_A_bunch_of_arrays_vs__character_arrays"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_A_bunch_of_arrays_vs__character_arrays"/>
+					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_A_bunch_of_arrays_vs__character_arrays/fast">
-				<Option output="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/4_A_bunch_of_arrays_vs__character_arrays.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
+				<Option output="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/4_A_bunch_of_arrays_vs__character_arrays.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -57,27 +57,27 @@
 					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_A_bunch_of_arrays_vs__character_arrays/fast"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_A_bunch_of_arrays_vs__character_arrays/fast"/>
+					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/main.c">
+		<Unit filename="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/main.c">
 			<Option target="4_A_bunch_of_arrays_vs__character_arrays"/>
 		</Unit>
-		<Unit filename="D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/CMakeLists.txt">
+		<Unit filename="D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

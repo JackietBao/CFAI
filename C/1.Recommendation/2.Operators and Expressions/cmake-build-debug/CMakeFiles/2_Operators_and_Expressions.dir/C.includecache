@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/Github/408/C/1.Recommendation/2.Operators and Expressions/main.c
+D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/main.c
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
 stdio.h
 -
 stdio.h

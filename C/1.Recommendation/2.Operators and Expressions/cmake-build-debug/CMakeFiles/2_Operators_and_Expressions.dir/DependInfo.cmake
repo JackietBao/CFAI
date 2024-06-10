@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Github/408/C/1.Recommendation/2.Operators and Expressions/main.c" "D:/Github/408/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/CMakeFiles/2_Operators_and_Expressions.dir/main.c.obj"
+  "D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/main.c" "D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/CMakeFiles/2_Operators_and_Expressions.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

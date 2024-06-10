@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/main.c
+D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/main.c
 stdio.h
 -
 stdio.h
@@ -22,5 +22,13 @@ stdio.h
 stdio.h
 -
 string.h
+-
+stdio.h
+-
+stdio.h
+-
+string.h
+-
+stdio.h
 -
 

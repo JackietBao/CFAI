@@ -40,11 +40,6 @@
     <property name="cmake.loaded.for.project" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="2_Operators_and_Expressions" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_Operators_and_Expressions" TARGET_NAME="2_Operators_and_Expressions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_Operators_and_Expressions" RUN_TARGET_NAME="2_Operators_and_Expressions">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -65,6 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1717994914242</updated>
       <workItem from="1717994916024" duration="714000" />
+      <workItem from="1718009859404" duration="426000" />
+      <workItem from="1718013507349" duration="7000" />
     </task>
     <servers />
   </component>

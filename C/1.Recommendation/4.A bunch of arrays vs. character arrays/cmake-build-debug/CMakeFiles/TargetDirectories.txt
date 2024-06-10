@@ -1,3 +1,3 @@
-D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/4_A_bunch_of_arrays_vs__character_arrays.dir
-D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/4_A_bunch_of_arrays_vs__character_arrays.dir
+D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/edit_cache.dir

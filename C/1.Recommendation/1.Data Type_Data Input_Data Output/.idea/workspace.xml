@@ -52,19 +52,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="1_Data_Type_Data_Input_Data_Output" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Data_Type_Data_Input_Data_Output" TARGET_NAME="1_Data_Type_Data_Input_Data_Output" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Data_Type_Data_Input_Data_Output" RUN_TARGET_NAME="1_Data_Type_Data_Input_Data_Output">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -77,6 +67,9 @@
       <option name="presentableId" value="Default" />
       <updated>1717993560313</updated>
       <workItem from="1717993564027" duration="1348000" />
+      <workItem from="1718009337624" duration="491000" />
+      <workItem from="1718011730754" duration="343000" />
+      <workItem from="1718012089708" duration="1157000" />
     </task>
     <servers />
   </component>

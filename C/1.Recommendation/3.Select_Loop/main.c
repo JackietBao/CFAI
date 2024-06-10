@@ -123,7 +123,7 @@ int main() {
     printf("%d\n",result);
     return 0;
 }
- */
+
 
 
 
@@ -151,6 +151,7 @@ int main() {
     printf("%d\n",count);
     return 0;
 }
+ */
 
 
 
@@ -158,7 +159,19 @@ int main() {
 
 
 
+#include <stdio.h>
 
+int main() {
+    int n;
+    scanf("%d",&n);
+    int i,result=1;
+    for(i=1;i<=n;i++)
+    {
+        result*=i;
+    }
+    printf("%d",result);
+    return 0;
+}
 
 
 

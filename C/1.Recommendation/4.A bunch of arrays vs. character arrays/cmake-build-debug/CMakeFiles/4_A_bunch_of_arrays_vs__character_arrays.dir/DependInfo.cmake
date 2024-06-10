@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/main.c" "D:/Github/408/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/4_A_bunch_of_arrays_vs__character_arrays.dir/main.c.obj"
+  "D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/main.c" "D:/Github/CFAI/C/1.Recommendation/4.A bunch of arrays vs. character arrays/cmake-build-debug/CMakeFiles/4_A_bunch_of_arrays_vs__character_arrays.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

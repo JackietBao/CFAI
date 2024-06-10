@@ -1,4 +1,4 @@
-# Install script for directory: D:/Github/408/C/1.Recommendation/2.Operators and Expressions
+# Install script for directory: D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Github/408/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
