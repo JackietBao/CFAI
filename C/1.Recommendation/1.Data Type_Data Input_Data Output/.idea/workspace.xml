@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebfaa1b-d256-48c3-9259-a718a970764c" name="默认变更列表" comment="" />
+    <list default="true" id="3ebfaa1b-d256-48c3-9259-a718a970764c" name="默认变更列表" comment="默认变更列表" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +46,20 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2.Operators and Expressions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="1_Data_Type_Data_Input_Data_Output" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Data_Type_Data_Input_Data_Output" TARGET_NAME="1_Data_Type_Data_Input_Data_Output" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Data_Type_Data_Input_Data_Output" RUN_TARGET_NAME="1_Data_Type_Data_Input_Data_Output">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -70,6 +77,13 @@
       <workItem from="1718009337624" duration="491000" />
       <workItem from="1718011730754" duration="343000" />
       <workItem from="1718012089708" duration="1157000" />
+      <workItem from="1718070230804" duration="50000" />
+      <workItem from="1718070293669" duration="68000" />
+      <workItem from="1718070373171" duration="16000" />
+      <workItem from="1718070396930" duration="2000" />
+      <workItem from="1718070739214" duration="66000" />
+      <workItem from="1718070812869" duration="131000" />
+      <workItem from="1718070951261" duration="274000" />
     </task>
     <servers />
   </component>

@@ -52,10 +52,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\SoftWare\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "D:\SoftWare\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -78,15 +78,15 @@ include CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/flags.make
 CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.obj: CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/flags.make
 CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.obj: ../main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.obj"
-	D:\Language\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1_Data_Type_Data_Input_Data_Output.dir\main.c.obj -c "D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\main.c"
+	D:\Lang\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1_Data_Type_Data_Input_Data_Output.dir\main.c.obj -c "D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\main.c"
 
 CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.i"
-	D:\Language\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\main.c" > CMakeFiles\1_Data_Type_Data_Input_Data_Output.dir\main.c.i
+	D:\Lang\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\main.c" > CMakeFiles\1_Data_Type_Data_Input_Data_Output.dir\main.c.i
 
 CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1_Data_Type_Data_Input_Data_Output.dir/main.c.s"
-	D:\Language\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\main.c" -o CMakeFiles\1_Data_Type_Data_Input_Data_Output.dir\main.c.s
+	D:\Lang\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Github\CFAI\C\1.Recommendation\1.Data Type_Data Input_Data Output\main.c" -o CMakeFiles\1_Data_Type_Data_Input_Data_Output.dir\main.c.s
 
 # Object files for target 1_Data_Type_Data_Input_Data_Output
 1_Data_Type_Data_Input_Data_Output_OBJECTS = \

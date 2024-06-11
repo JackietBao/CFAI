@@ -11,10 +11,10 @@
 				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="2_Operators_and_Expressions">
@@ -24,15 +24,15 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Operators_and_Expressions"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Operators_and_Expressions"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="2_Operators_and_Expressions/fast">
@@ -42,35 +42,35 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="D:/Language/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Operators_and_Expressions/fast"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Operators_and_Expressions/fast"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Language/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/2.Operators and Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>

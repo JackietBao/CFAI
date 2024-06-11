@@ -186,7 +186,32 @@ int main() {
 
 
 
-
+#include <stdio.h>
+#include <string.h>
+int main() {
+    char i[100];
+    char j[100]={0};
+    gets(i);
+    int a,b;
+    for(a=0,b= strlen(i)-1;a < strlen(i);a++,b--)
+    {
+        j[b] = i[a];
+        //printf("%c\n",j[b]);
+    }
+    int result= strcmp(i,j);
+    if (result < 0)
+    {
+        printf("%d\n",-1);
+    }
+    else if (result > 0)
+    {
+        printf("%d\n", 1);
+    }
+    else {
+        printf("%d\n", 0);
+    }
+    return 0;
+}
 
 
 

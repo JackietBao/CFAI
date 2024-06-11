@@ -152,11 +152,6 @@ int main() {
     return 0;
 }
 
- */
-
-
-
-
 
 
 //scanf读取
@@ -178,6 +173,22 @@ int main() {
 //    printf("f=%f\n",f);
     return 0;
 }
+ */
+
+
+
+
+
+#include <stdio.h>
+
+//scanf练习和加法运算
+int main() {
+    int a;
+    scanf("%d",&a);
+    printf("%c",a);
+    return 0;
+}
+
 
 
 

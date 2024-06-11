@@ -52,10 +52,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\SoftWare\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "D:\SoftWare\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -78,15 +78,15 @@ include CMakeFiles/2_Operators_and_Expressions.dir/flags.make
 CMakeFiles/2_Operators_and_Expressions.dir/main.c.obj: CMakeFiles/2_Operators_and_Expressions.dir/flags.make
 CMakeFiles/2_Operators_and_Expressions.dir/main.c.obj: ../main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/2_Operators_and_Expressions.dir/main.c.obj"
-	D:\Language\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\2_Operators_and_Expressions.dir\main.c.obj -c "D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\main.c"
+	D:\Lang\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\2_Operators_and_Expressions.dir\main.c.obj -c "D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\main.c"
 
 CMakeFiles/2_Operators_and_Expressions.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/2_Operators_and_Expressions.dir/main.c.i"
-	D:\Language\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\main.c" > CMakeFiles\2_Operators_and_Expressions.dir\main.c.i
+	D:\Lang\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\main.c" > CMakeFiles\2_Operators_and_Expressions.dir\main.c.i
 
 CMakeFiles/2_Operators_and_Expressions.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/2_Operators_and_Expressions.dir/main.c.s"
-	D:\Language\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\main.c" -o CMakeFiles\2_Operators_and_Expressions.dir\main.c.s
+	D:\Lang\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Github\CFAI\C\1.Recommendation\2.Operators and Expressions\main.c" -o CMakeFiles\2_Operators_and_Expressions.dir\main.c.s
 
 # Object files for target 2_Operators_and_Expressions
 2_Operators_and_Expressions_OBJECTS = \
