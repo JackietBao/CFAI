@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="6_function"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_function">
+				<Option output="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/6_function.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_function"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_function/fast">
+				<Option output="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/6_function.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Lang/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_function/fast"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Lang/mingw64/bin/mingw32-make.exe -f &quot;D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Github/CFAI/C/1.Recommendation/6.function/func.c">
+			<Option target="6_function"/>
+		</Unit>
+		<Unit filename="D:/Github/CFAI/C/1.Recommendation/6.function/func.h">
+			<Option target="6_function"/>
+		</Unit>
+		<Unit filename="D:/Github/CFAI/C/1.Recommendation/6.function/main.c">
+			<Option target="6_function"/>
+		</Unit>
+		<Unit filename="D:/Github/CFAI/C/1.Recommendation/6.function/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

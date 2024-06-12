@@ -1,0 +1,3 @@
+D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/CMakeFiles/6_function.dir
+D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/CFAI/C/1.Recommendation/6.function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
