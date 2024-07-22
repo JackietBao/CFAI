@@ -54,12 +54,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="4_A_bunch_of_arrays_vs__character_arrays" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_A_bunch_of_arrays_vs__character_arrays" TARGET_NAME="4_A_bunch_of_arrays_vs__character_arrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_A_bunch_of_arrays_vs__character_arrays" RUN_TARGET_NAME="4_A_bunch_of_arrays_vs__character_arrays">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4_A_bunch_of_arrays_vs__character_arrays" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_A_bunch_of_arrays_vs__character_arrays" TARGET_NAME="4_A_bunch_of_arrays_vs__character_arrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_A_bunch_of_arrays_vs__character_arrays" RUN_TARGET_NAME="4_A_bunch_of_arrays_vs__character_arrays">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -81,6 +81,7 @@
       <workItem from="1717996110541" duration="1645000" />
       <workItem from="1718014423329" duration="887000" />
       <workItem from="1718073691644" duration="6600000" />
+      <workItem from="1721499377137" duration="149000" />
     </task>
     <servers />
   </component>
